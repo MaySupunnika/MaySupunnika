@@ -1,6 +1,6 @@
 Hi 👋 My name is Supunnika Poklin
 =================================
-
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/9bfbca05c310b6206f03b43d21d3ac8ed65823a2/resources/img/grid-snake.svg"/>
 "My coding journey began just four months ago, Currently, I'm actively expanding my knowledge with a focus on Next.js. It's been an exciting and rewarding journey, and I'm eager to continue learning and applying these skills in practical projects."
 
 * 🌍  I'm based in Kanchana Buri, Thailand

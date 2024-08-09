@@ -4,7 +4,7 @@ Hi 👋 My name is Supunnika Poklin
 "My coding journey began just four months ago, Currently, I'm actively expanding my knowledge with a focus on Next.js. It's been an exciting and rewarding journey, and I'm eager to continue learning and applying these skills in practical projects."
 
 * 🌍  I'm based in Kanchana Buri, Thailand
-* 🖥️  See my portfolio at [MY RESUME WEBSITE](https://may-portfolio-pi.vercel.app/)
+* 🖥️  See my portfolio at [MY RESUME WEBSITE](https://supunnika-website.vercel.app/)
 * ✉️  You can contact me at [supunnika.PKN@gmail.com](mailto:supunnika.PKN@gmail.com)
 * 🧠  I'm learning Next JS and TypeScript.
 
